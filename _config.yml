@@ -3,22 +3,22 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
+title: Mutecute.site
+email: mutecutespace@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+url: https://mutecute.github.io # the base hostname & protocol for your site
+keywords: ["Programlama", "Online Pazarlama", "Online Yayıncılık"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Istanbul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
+permalink:         /:year-:month/:title
 
 kramdown:
   auto_ids: true
@@ -33,17 +33,17 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Mutecute.site
   avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
+  job: "Programlama • Online Pazarlama • Online Yayıncılık"
   bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
+  email: mutecutespace@gmail.com
+  disqus-shortname:
+  twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-2
+    analytics: 
     verify:
     ad-client:
     ad-slot:
