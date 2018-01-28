@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivasyon, E-Pazarlama, E-Yönetim, Hosting, Domain,
-percentage: 100, 85, 85, 70, 70,
+aspects: Motivasyon, E-Pazarlama, E-Yönetim, Hosting, Domain, Programlama
+percentage: 100, 85, 85, 75, 75, 70
