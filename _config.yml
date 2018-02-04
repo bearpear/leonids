@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Mutecute.site
-email: mutecutespace@gmail.com
+title: Trenima.space
+email: getintouch@trenima.space
 description: A simple and awesome blog theme powered by jekyll.
-url: https://bearpear.github.io/mutecute.github.io # the base hostname & protocol for your site
+url: https://mutecute.github.io # the base hostname & protocol for your site
 keywords: ["Programlama", "Online Pazarlama", "Online Yayıncılık"]
 
 #
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Mutecute.site
+  name: Trenima.space
   avatar: 
   job: "Programlama • Online Pazarlama • Online Yayıncılık"
   bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: mutecutespace@gmail.com
+  email: getintouch@trenima.space
   disqus-shortname:
   twitter: #username
   facebook: #username
