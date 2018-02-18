@@ -4,10 +4,7 @@ title:  "Türkiye ve Telefon"
 date:   2018-02-18 17:38:47
 categories: [Ekonomi]
 comments: true
-
-
-
-
+---
 Türkiyede 2016 yılında cep telefonu kullanımı %96,6'ya kadar ulaştı.
 
 
