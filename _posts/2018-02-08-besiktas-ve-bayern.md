@@ -7,17 +7,16 @@ comments: true
 ---
 
 Türkiye temsilcisi olan Beşiktaş 16.turda alman ekip Bayern Münih ile karşı karşıya gelicek.20 Şubat saat 22.45'de olacak maçta temsilcimiz
-deplasman sahada olacak.Birçok Türk taraftar temsilcimizi desteklemek için Alman ekibin sahasına gidicek.Beşiktaş 6 maçta 4 galibiyet 2 
-beraberlik ile büyük bir başarıya imza attı.Alman ekip olan Bayern Münih ise 6 maçta 5 galibiyet 1 mağlubiyet alarak Şampiyonlar Liginde 
-PSG'yi ikincilik ile takip ediyor.Çift maç usülüne göre ilk maç Alman ekibi sahasında ikinci maç ise Vodofone Park'ta olacak.Türk taraftar-
-lar ise Vodofone Park'ta büyük ilgi olacağından heyecanlı.Çoğu Türk ve Almanya'da yaşayan Türk taraftarlar Alman ekibin sahasına gidiceği 
+deplasman sahada olacak. Birçok Türk taraftar temsilcimizi desteklemek için Alman ekibin sahasına gidicek.Beşiktaş 6 maçta 4 galibiyet 2 
+beraberlik ile büyük bir başarıya imza attı. Alman ekip olan Bayern Münih ise 6 maçta 5 galibiyet 1 mağlubiyet alarak Şampiyonlar Liginde 
+PSG'yi ikincilik ile takip ediyor. Çift maç usülüne göre ilk maç Alman ekibi sahasında ikinci maç ise Vodofone Park'ta olacak. Türk taraftarlar ise Vodafone Park'ta büyük ilgi olacağından heyecanlı. Çoğu Türk ve Almanya'da yaşayan Türk taraftarlar Alman ekibin sahasına gidiceği 
 düşünülüyor.
 
-''Bayern Münih''
+'*Bayern Münih*'
 
 Maç hakemi olacak hakem ise ''Ovidiu Hategan'' yardımcı hakemleri ise ''Octavian Șovre ve Sebastian Gheorghe'' olacağı söyleniyo.
 
-''Münih'te Hava''
+'*Münih'te Hava*'
 
 Deplasmanda Münihe gidecek olan temsilcimiz Beşiktaş'ı zorlu hava koşulları bekliyor.Salı günü münihte çok sert bir hava olacağı 
 söyleniyor.
