@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title:  "Bayern Beşiktaş"
-date:   2018-02-18 19:07:19
+title: "Bayern Beşiktaş"
+date: 2018-02-18 19:07:19
 categories: [Spor]
 comments: true
 ---
