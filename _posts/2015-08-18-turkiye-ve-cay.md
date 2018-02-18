@@ -5,7 +5,7 @@ date:   2018-02-18 15:07:19
 categories: [Ekonomi]
 comments: true
 ---
-Türkiye, kişi başı yılda yaklaşık `7 kilo çay tüketiyor`, ve böylece Türkiye dünyanın en büyük çay tüketicisi oluyor.
+Türkiye, kişi başı yılda yaklaşık `7 kilo çay tüketiyor`, ve böylece Türkiye dünyanın en büyük çay tüketicisi oluyor. Bu rakam yılda yaklaşık 754 kilograma denk geliyor. Türkiye, İrlanda ve Birleşik Krallık dünyanın en çok çay tüketen ülkeleri konumda oluyor.
 
 
 _"2018'in Organik Çay Planı"_
