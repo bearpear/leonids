@@ -20,4 +20,8 @@ Aylık ortalama 1 milyon akıllı telefon satılıyor ve bu telefonlardan aylık
 satılan marka ise hepinizin bildiği gibi Samsung ardından ise Iphone geliyor.Sizde hangi telefon kullandığınızı yazınız.
 
 
-![image](http://cdn.vatanbilgisayar.com/UPLOAD/PRODUCT/SAMSUNG/thumb/v2-84024-6_medium.jpg)
+
+
+
+
+                ![image](http://cdn.vatanbilgisayar.com/UPLOAD/PRODUCT/SAMSUNG/thumb/v2-84024-6_medium.jpg)
