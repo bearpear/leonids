@@ -22,6 +22,4 @@ satılan marka ise hepinizin bildiği gibi Samsung ardından ise Iphone geliyor.
 
 
 
-
-
-                ![image](http://cdn.vatanbilgisayar.com/UPLOAD/PRODUCT/SAMSUNG/thumb/v2-84024-6_medium.jpg)
+![image](http://cdn.vatanbilgisayar.com/UPLOAD/PRODUCT/SAMSUNG/thumb/v2-84024-6_medium.jpg)
