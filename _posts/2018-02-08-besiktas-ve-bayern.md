@@ -14,7 +14,7 @@ düşünülüyor.
 
 '*Bayern Münih*'
 
-Maç hakemi olacak hakem ise ''Ovidiu Hategan'' yardımcı hakemleri ise ''Octavian Șovre ve Sebastian Gheorghe'' olacağı söyleniyo.
+Maç hakemi olacak hakem ise ''Ovidiu Hategan'' yardımcı hakemleri ise ''Octavian Șovre ve Sebastian Gheorghe'' olacağı söyleniyor.
 
 '*Münih'te Hava*'
 
