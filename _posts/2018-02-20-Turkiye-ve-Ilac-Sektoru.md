@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Türkiye ve İlaç Sektörü"
-date:   20-02-2018 19:49:45
+date:   2018-02-20 19:49:45
 categories: [Sağlık]
 comments: true
 ---
