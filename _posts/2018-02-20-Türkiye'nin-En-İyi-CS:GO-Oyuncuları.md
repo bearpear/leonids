@@ -16,7 +16,7 @@ Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarında
 3- Fatih Dayik     
 4- Tugay Keskin   
 5- Engin Kor   
-6-Çağatay Sedef    
+6- Çağatay Sedef    
 7- Hüsam Ener     
 
 
