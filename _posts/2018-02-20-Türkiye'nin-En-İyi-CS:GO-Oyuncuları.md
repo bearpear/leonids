@@ -16,7 +16,8 @@ Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarında
 - Tugay(TuGuX)Keskin                                                                                                        
 - Engin(ngiN)Kor                                                             
 - Çağatay(DESPE)Sedef                                                   
-- Hüsam(EtmaScheme)Ener                                                          
-               
-               
+- Hüsam(EtmaScheme)Ener                                                          
+-Tarık(Taric)Çelik               
+    
+    
 ![image](https://www.m-powers.net/wp-content/uploads/2016/12/cs-go-817x320.png)
