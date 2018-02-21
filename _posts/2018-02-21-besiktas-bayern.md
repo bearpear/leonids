@@ -14,4 +14,4 @@ uğramış oldu.Ama bazı taraftar ''Onlar Bayern Münih'',''Onlar çok iyi bir 
 Ama bu yenilgi Türkiye'de büyük bir bozguna uğrattı.Yinede Türkiye'yi Şampiyonlar Liginde temsil eden Beşiktaş'a teşekkürlerimizi söyleyelim.
 
 
-![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLsY-467bZAhVFNxQKHUvqBYAQjRx6BAgAEAY&url=http%3A%2F%2Fwww.fanatik.com.tr%2F2017%2F12%2F11%2Fsifresiz-yayin-bayern-munih-besiktas-maci-hangi-kanalda-saat-kacta-1336403&psig=AOvVaw1LC4Sdbtmasq55yH1YeICF&ust=1519295961965341)
+![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj-0trT67bZAhXGOBQKHRKgAokQjRx6BAgAEAY&url=http%3A%2F%2Fwww.tgrthaber.com.tr%2Fspor%2Fbayern-munihten-besiktas-rotasyonu-226924&psig=AOvVaw1LC4Sdbtmasq55yH1YeICF&ust=1519295961965341)
