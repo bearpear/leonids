@@ -15,7 +15,7 @@ Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarında
 2- Can(XANTARES)Dörtkardeş                     
 3- Fatih(gob b)Dayik                              
 4- Tugay(TuGuX)Keskin                                                                                                          
-5- Engin(ngiN)Kor                                                          
+5- Engin(ngiN)Kor                                                             
 6- Çağatay(DESPE)Sedef                               
 7- Hüsam(EtmaScheme)Ener                                                    
                
