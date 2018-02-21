@@ -10,7 +10,7 @@ Dünya'nın en çok oynanan oyunlarından biri olan kısaca CS:GO'nun Dünya'da 
 Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarından biridir ve Dünya genelinde çok büyük turnuvaları yapılmaktadır. Türkiye'nin pek temsilcisi olmasa da sizinle en iyi 7 türk oyuncuyu paylaşmak istiyoruz.
 
 
- -Tarık(Taric)Çelik                                
+-Tarık(Taric)Çelik                                
 - Can(XANTARES)Dörtkardeş                           
 - Fatih(gob b)Dayik                                   
 - Tugay(TuGuX)Keskin                                                                                                        
