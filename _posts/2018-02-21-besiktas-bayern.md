@@ -14,4 +14,5 @@ uğramış oldu.Ama bazı taraftar ''Onlar Bayern Münih'',''Onlar çok iyi bir 
 Ama bu yenilgi Türkiye'de büyük bir bozguna uğrattı.Yinede Türkiye'yi Şampiyonlar Liginde temsil eden Beşiktaş'a teşekkürlerimizi söyleyelim.
 
 
-![image](http://img2.cdn.turkiyegazetesi.com.tr/images/haberler/2018_02/buyuk/besiktas-bayern-munih-maci-ne-zaman-saat-kacta-hangi-kanalda--1519042604.png)
+
+   ![image](http://img2.cdn.turkiyegazetesi.com.tr/images/haberler/2018_02/buyuk/besiktas-bayern-munih-maci-ne-zaman-saat-kacta-hangi-kanalda--1519042604.png)
