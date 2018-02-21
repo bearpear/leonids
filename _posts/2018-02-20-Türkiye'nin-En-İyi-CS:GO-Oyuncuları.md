@@ -11,13 +11,13 @@ Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarında
 
 
 
-1- Tarık (Taric) Çelik                 
-2- Can (XANTARES) Dörtkardeş                           
-3- Fatih(gob b) Dayik                                                                  
+1- Tarık (Taric) Çelik 
+2- Can (XANTARES) Dörtkardeş                        
+3- Fatih(gob b) Dayik                                                               
 4- Tugay(TuGuX) Keskin                                           
-5- Engin (ngiN) Kor                                        
-6- Çağatay (DESPE) Sedef                                         
-7- Hüsam (EtmaScheme) Ener                          
+5- Engin (ngiN) Kor                           
+6- Çağatay (DESPE) Sedef                                       
+7- Hüsam (EtmaScheme) Ener                    
 
 
 ![image](https://www.m-powers.net/wp-content/uploads/2016/12/cs-go-817x320.png)
