@@ -7,17 +7,17 @@ comments: true
 ---
 Dünya'nın en çok oynanan oyunlarından biri olan kısaca CS:GO'nun Dünya'da fazla Türk temsilcisi olmasa da Türkiye'de de gayet yetenekli oyuncular var.
 
-Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarından biridir ve Dünya genelinde çok büyük turnuvaları yapılmaktadır. Türkiye'nin pek temsilcisi olmasa da sizinle en iyi 7 türk oyuncuyu paylaşmak istiyoruz.
+Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarından biridir ve Dünya genelinde çok büyük turnuvaları yapılmaktadır. Türkiye'nin pek temsilcisi olmasa da sizinle en iyi 6 Türk oyuncuyu paylaşmak istiyoruz.
 
 
--Tarık(Taric)Çelik                                
+                              
 - Can(XANTARES)Dörtkardeş                           
 - Fatih(gob b)Dayik                                   
 - Tugay(TuGuX)Keskin                                                                                                        
 - Engin(ngiN)Kor                                                             
 - Çağatay(DESPE)Sedef                                                   
 - Hüsam(EtmaScheme)Ener                                                          
--Tarık(Taric)Çelik               
+             
     
     
 ![image](https://www.m-powers.net/wp-content/uploads/2016/12/cs-go-817x320.png)
