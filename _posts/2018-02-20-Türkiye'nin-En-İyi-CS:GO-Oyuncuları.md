@@ -11,8 +11,8 @@ Counter Strike Global Offensive kısaca CS:GO, Dünya'nın sayılı oyunlarında
 
 
 
-1- Tarık (Taric) Çelik                             
-2- Can (XANTARES) Dörtkardeş                          
+1- Tarık (Taric) Çelik                                          
+2- Can (XANTARES) Dörtkardeş                               
 3- Fatih(gob b) Dayik                                      
 4- Tugay(TuGuX) Keskin                           
 5- Engin (ngiN) Kor                                            
