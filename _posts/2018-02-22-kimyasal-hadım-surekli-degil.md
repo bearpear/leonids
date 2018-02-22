@@ -15,3 +15,4 @@ yetkilinin katılacağı bir komisyon toplantısı düzenleyeceğiz. Bakanlar ku
 Bu konuda cezai yaptırımların tekrar gözden geçirileceği bir toplantı olacak." dedi.
 
 
+![image](https://imgrosetta.mynet.com.tr/file/1838278/728xauto.jpg)
