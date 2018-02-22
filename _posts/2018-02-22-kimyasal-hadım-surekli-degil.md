@@ -13,3 +13,4 @@ Politikalar Bakanı Fatma Betül Sayan Kaya, gündemin sıcak maddelerinden çoc
 Cezai yaptırımların masada olduğunu belirten Kaya, "Yarın (bugün) Başbakan Yardımcımız Recep Akdağ başkanlığında bakanlığımızdan 6
 yetkilinin katılacağı bir komisyon toplantısı düzenleyeceğiz. Bakanlar kurulunda da konuyu gündeme getirdik, değerlendirmelerde bulunduk.
 Bu konuda cezai yaptırımların tekrar gözden geçirileceği bir toplantı olacak." dedi.
+![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwihyNX8jLrZAhVLvRQKHefABpUQjRx6BAgAEAY&url=https%3A%2F%2Fbirbakmali.blogspot.com%2F2018%2F02%2Fcocuk-istismari-ve-ihmali-nedir.html&psig=AOvVaw3WLMqCg2hd3zSY7B4u1PEC&ust=1519408791318567)
