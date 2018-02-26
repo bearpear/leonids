@@ -17,3 +17,9 @@ tar hakkında yasal işlem uygulandı.Polis ekipleri, 5 kişiye spor alanlarına
 meşale yakmaktan, 6 kişiye sahaya madde atmaktan, 2 kişiye küfürlü tezahürattan, 4 kişiye spor alanlarına usulsüz seyirci girişi, 7 kişiye
 spor alanlarında taşkınlık yapmak ve mala zarar vermek ile 3 kişiye de spor alanlarına alkollü giriş ve kolluk uyarılarına rağmen çıkmamak
 suçlarında 6222 sayılı Sporda Şiddet ve Düzenlemesi Kanununa muhalefet suçları kapsamında adli işlem başlattı.
+
+
+
+
+
+![image](http://www.yurtgazetesi.com.tr/images/haberler/2018/02/besiktas_fenerbahce_yi_3_1_maglup_etti_h78057_86011.gif)
