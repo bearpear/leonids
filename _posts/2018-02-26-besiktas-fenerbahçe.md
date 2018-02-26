@@ -9,7 +9,7 @@ Spor Toto Süper Lig'de 25 Şubat 2018 Pazar günü yapılan Fenerbahçe-Beşikt
 tarafından atılan gol ile 1-0 öne geçen Fenerbahçe ilk yarı 1-0 önde bitirdi.İkinci yarının 49.dakikasında Vida'nın golü ile skor 1-1 oldu.
 Ardından 77,90+4'de Quaresma'nın golleri ile skor 3-1 oldu.Vodofone Park'ta 3-1 Fenerbahçe'yi yenen Beşiktaş,taraftarlarını mutlu etti.
 
-![image](https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fwww.aydinlik.com.tr%2F_usr%2Ffiles%2Fimg%2F2018022312430119_ns6dav0iseup3ds8bsmouflin61.jpg&imgrefurl=https%3A%2F%2Fwww.aydinlik.com.tr%2Fbesiktas-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-spor-subat-2018-3&docid=Eb67mSeiKCikrM&tbnid=Ow6NMdwRRjUtGM%3A&vet=10ahUKEwiFnYWCk8TZAhUI66QKHXi8CyQQMwhrKBkwGQ..i&w=800&h=450&bih=963&biw=1920&q=be%C5%9Fikta%C5%9F%20fenerbah%C3%A7e&ved=0ahUKEwiFnYWCk8TZAhUI66QKHXi8CyQQMwhrKBkwGQ&iact=mrc&uact=8)
+![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiU2rbFk8TZAhXNCewKHaSTAOEQjRx6BAgAEAY&url=http%3A%2F%2F)
 
 Beşiktaş bu derbi maçından sonra 44 puana yükselmiş ve şampiyonluk yolunda büyük bir adım atmış oldu.Maçın adamı Quaresma seçildi.Maçta 41
 taraftar hakkında yasal işlem yapıldı."Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunu" ihlal eden davranışlar sergileyen 41 taraf-
