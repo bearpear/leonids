@@ -10,7 +10,7 @@ zengin kentleri belirlendi.Güney Afrika Cumhuriyeti merkezli New World Wealth, 
 toplam değeri üzerinden yaptı. 
 
 
-1 - New York
+title:  "1-New York"
 
 
 
