@@ -10,10 +10,7 @@ zengin kentleri belirlendi.Güney Afrika Cumhuriyeti merkezli New World Wealth, 
 toplam değeri üzerinden yaptı. 
 
 
-title:  "1-New York"
-
-
-
+1-New York
 
 Buna göre; ABD’nin New York kenti 3 trilyon dolarla (11.3 trilyon TL) dünyanın en zengin kenti oldu. Kentin nüfusu 8.5 milyon ve ortalam
 kişisel servet yaklaşık 1.3 milyon TL. 
