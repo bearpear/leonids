@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bambular Hakkında İlginç Gerçekler"
-date:   2018-02-19 21:00:35
+date:   2018-02-28 21:00:35
 categories: [Bitkiler]
 comments: true
 ---
