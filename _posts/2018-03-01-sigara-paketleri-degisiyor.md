@@ -10,7 +10,7 @@ Demircan'ın talimatıyla oluşturulan yeni düzenlemelere göre, paketler özen
 geliyor?
 
 
-![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVy9T1-MrZAhUPnRQKHaWLAxcQjRx6BAgAEAY&url=https%3A%2F%2Fwww.ntv.com.tr%2Fsaglik%2Fsigara-yasagi-ihlaline-954-kapatma-142-milyon-lira-ceza%2CBmA3Vv-9pUamH3meDi4GkQ&psig=AOvVaw0YUXIkNmNtZ0Q-8UzT5wBF&ust=1519987426997120)
+![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjZ0cmE-crZAhUEVRQKHU-VCPMQjRx6BAgAEAY&url=http%3A%2F%2Fwww.kanalbox.com%2Fhaber-sigara-paketleri-degisiyor-uygulama-ne-zaman-baslayacak-60362.html&psig=AOvVaw0YUXIkNmNtZ0Q-8UzT5wBF&ust=1519987426997120)
 
 
 Sigara yasakları ile ilgili yasa taslak hazırlandı. Gazete Habertürk’ten Fatmanur Boylu’nun haberine göre taslakta, sigara satışlarında
