@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sigara paketleri değişiyor...Ne zaman uygulanacak?"
+title:  "Sigara paketleri değişiyor... Ne zaman uygulanacak?"
 date:   2018-03-01 13:26:45
 categories: [Sağlık]
 comments: true
@@ -20,6 +20,8 @@ Sağlık Bakanı Ahmet Demircan'ın tütünle mücadele kapsamında hazırlanmas
 
 * Türkiye'de üretilen veya ithal edilen tütün ürünlerinin paketi belli standartlarda olacak. Paketler, düz ve öngörülen standartlarda
 piyasaya arz edilecek.
+
+![image](http://i.milliyet.com.tr/YeniAnaResim/2014/12/12/fft99_mf5077032.Jpeg)
 
 YÜZDE 5 KRİTERİ
 
