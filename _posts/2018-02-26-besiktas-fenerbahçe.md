@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beşiktaş 5-1 Fenerbahçe!"
+title:  "Beşiktaş 3-1 Fenerbahçe!"
 date:   2018-02-26 20:47:45
 categories: [Spor]
 comments: true
