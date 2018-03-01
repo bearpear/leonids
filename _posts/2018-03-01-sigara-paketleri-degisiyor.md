@@ -10,9 +10,6 @@ Demircan'ın talimatıyla oluşturulan yeni düzenlemelere göre, paketler özen
 geliyor?
 
 
-![image](https://www.google.com.tr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj9laOQ-crZAhWEaxQKHd5TDxYQjRx6BAgAEAY&url=http%3A%2F%2Fyenisoluk.com%2Ftag%2Fsigara%2F&psig=AOvVaw0YUXIkNmNtZ0Q-8UzT5wBF&ust=1519987426997120)
-
-
 Sigara yasakları ile ilgili yasa taslak hazırlandı. Gazete Habertürk’ten Fatmanur Boylu’nun haberine göre taslakta, sigara satışlarında
 tüketimi ve erişimi özendirecek sunum ve pazarlama tekniklerini kısıtlayıcı hükümler yer alıyor. En önemlisi de sigara paketleri 
 değişecek ve paketler gençlerin ilgisini çekecek şekilde renkli ve albenili olamayacak.
