@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "Beşiktaş 2-2 Fenerbahçe!! kartlar havada uçuştu..."  
+title:  "Beşiktaş 2-2 Fenerbahçe!!Kartlar havada uçuştu..."  
 date:   2.03.2018 19:57:13 
 categories: [Spor]  
 comments: true  
