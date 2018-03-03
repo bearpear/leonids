@@ -19,4 +19,4 @@ Piyasalarda bugün, ABD Başkanı Donald Trump'ın ithal çelik ve alüminyuma s
 
 
 
-![image](http://www.egedebirgun.com/haber/7658/dolar-ve-euro-gune-boyle-basladi.html)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3a3LvyCKDw_JEChVpBYgsK7p2olvfeAygwtuQpSe3QUnbyvcL)
