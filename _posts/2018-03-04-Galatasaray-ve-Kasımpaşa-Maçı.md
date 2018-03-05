@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Galatasaray ve Kasımpaşa Maçı 7-0!!Gomis'den 4 gol..."
+title:  "Galatasaray ve Karabük Maçı 7-0!!Gomis'den 4 gol..."
 date:   2018-03-04 19:11:19
 categories: [Spor]
 comments: true
