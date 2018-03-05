@@ -14,4 +14,4 @@ Ligin 24. haftasında Karabükspor ile karşılaşan Galatasaray, Gomis'in 4 gol
 
 
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9C7N8PhkLNHUcFP04dik6EHrsrueOXuigRHPwToUblasvJscd)
+![image](http://idora.milliyet.com.tr/Skorer600x298/2016/08/22/galatasaray-kardemir-karabukspor-maci-ne-zaman-saat-kacta-hangi-kanalda--7537057.Gif)
