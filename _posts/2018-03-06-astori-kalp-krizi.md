@@ -14,7 +14,7 @@ ekiplerinden Fiorentina resmi twitter hesabından; Davide Astori'nin ölüm habe
 öldüğü ve kalp krizi geçirmiş olduğu ihtimali üzerinde duruyor. 31 yaşındaki Davide Astori 14 kez milli takım forması giydi ve Mancini'nin
 Galatasaray için istediği isimlerden biriydi. Fiorentina teknik direktörü Stefano Pioli'nin ilk tepkisi ise "Bu bir trajedi" şeklinde oldu.
 
-
+![image](http://i.milliyet.com.tr/Skorer600x298/2018/03/05/fft226_mf10944936.Jpeg)
 
 
 
